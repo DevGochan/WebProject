@@ -1,0 +1,35 @@
+2023. 5. 18 목 작성
+
+        V restaurant css
+            - 사진 따오기(출처)
+            - 각 나라 음식에 대한 설명(한 문단 정도)
+            - 나라 사진 눌렀을 때 이동될 페이지 만들기
+            - food footer css
+
+        V 아이디 중복체크 기능 구현 --- 5.29 ~ 5.30화 
+
+        V 커뮤니티, 게시글 등
+
+        V 쪽지
+
+        V 개인정보 처리방침
+
+        V Sign out css작업
+
+        V restaurant 푸터 css 바꾸기
+
+        
+
+★ photo에 헝가리 없음
+
+로드뷰 만들기 (구글어스 API이용)
+
+마이페이지 css 깨진거 잡기
+
+파비콘 작업
+
+
+
+
+https://www.windsortour.co.kr/home/tour_info/index.asp?ts=infor_list&infor_cd=02&cd=A&nat_cd=FR&city=PAR
+정보가 아주 좋음

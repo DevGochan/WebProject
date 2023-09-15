@@ -1,0 +1,54 @@
+템플릿 출처
+hotel.php : https://html5up.net/helios
+hotels/hotel_country.php : https://html5up.net/big-picture
+
+hotel.php -> header1.jpg : https://pixabay.com/ko/photos/%eb%b2%a0%eb%8b%88%ec%8a%a4-%ec%9d%b4%ed%83%88%eb%a6%ac%ec%95%84-%eb%b3%b4%ed%8a%b8-%eb%8f%84%ec%8b%9c-2451047/
+
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+hotel_italy.php 이미지 출처
+intro. https://unsplash.com/ko/%EC%82%AC%EC%A7%84/dacdEbdqjpk
+1. https://www.youtube.com/watch?v=ppI6KUaN7Tk&ab_channel=WestinHotels%26Resorts
+2. https://www.sanmontano.com/wp-content/themes/sanmontano/assets/video/homeTest.mp4
+3. https://www.villalamassa.com/
+4. https://www.anantara.com/en/palazzo-naiadi-rome
+5. https://sirenuse.it/en/
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+hotel_czech.php
+intro. https://unsplash.com/ko/%EC%82%AC%EC%A7%84/th35Hyge32A
+1. https://www.youtube.com/watch?v=gljVQLaHzWs
+2. https://www.youtube.com/watch?v=5JzeIEtXmAQ
+3. https://www.youtube.com/watch?v=KQ6IHuN6j5U
+4. https://www.youtube.com/watch?v=lv_YV8wZyJY
+5. https://www.youtube.com/watch?v=fzBYNXBxx7E
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+hotel_france.php
+intro. https://unsplash.com/ko/%EC%82%AC%EC%A7%84/KaGWg7sqJV0
+1. https://www.youtube.com/watch?v=i644jEpRKak
+2. https://www.youtube.com/watch?v=-WgtLrue8io
+3. https://www.youtubepp.com/watch?v=KiePmG3sOMg
+4. https://www.youtube.com/watch?v=HJOxRH9JIzo
+5. https://www.youtube.com/watch?v=f4EpE2pV6Kk
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+hotel_switzerland.php
+intro. https://pixabay.com/ko/photos/%ec%82%b0-%ec%8a%a4%ec%9c%84%ec%8a%a4-%ea%b5%ad%ea%b8%b0-%ea%b5%ac%eb%a6%84-%ec%95%8c%ed%8c%8c%ec%9d%b8-5747088/
+1. https://www.youtube.com/watch?v=InTU4n79ziA
+2. https://www.youtube.com/watch?v=cgSvBmSy2co
+3. https://www.youtube.com/watch?v=cgSvBmSy2co
+4. https://www.youtube.com/watch?v=FgsQCuDYFBk
+5. https://www.youtube.com/watch?v=CHOvfRgzjSo
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+hotel_hungary.php
+intro. https://unsplash.com/ko/%EC%82%AC%EC%A7%84/HZHKQ7bt8aY
+1. https://www.youtube.com/watch?v=OGVu0VYfKco
+2. https://www.youtube.com/watch?v=8KsOY_a1EQw
+3. https://www.youtube.com/watch?v=o85Ub2BTxv4
+4. https://www.youtube.com/watch?v=4D-BV4dn9tw
+5. https://www.youtube.com/watch?v=9m1L31nBEjA
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+hotel_austria.php
+intro. https://unsplash.com/ko/%EC%82%AC%EC%A7%84/Y8yYkPW2u3w
+1. https://www.youtube.com/watch?v=CVfTBA9nZrA
+2. https://www.youtube.com/watch?v=fPZXdLVaqMY
+3. https://www.youtube.com/watch?v=qyyDMhws0QU
+4. https://www.youtube.com/watch?v=fnZ5DXx3sk8
+5. https://www.youtube.com/watch?v=Is8F6A4lBSg

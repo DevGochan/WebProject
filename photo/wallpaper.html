@@ -1,0 +1,243 @@
+<!doctype html>
+<html>
+
+<head>
+    <title>Wallpaper</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <script src="js/jquery-3.5.1.min.js"></script>
+    <script src="js/jquery.fullpage.js"></script>
+    <link href="js/jquery.fullpage.min.css" rel="stylesheet">
+    <style>
+        h1 {
+            color: #fff;
+            font-size: 100px;
+        }
+
+        .section {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            text-align: center;
+        }
+
+        #section1 {
+            background-image: url(images/French1.jpg);
+            background-size: cover;
+        }
+
+        #slide1 {
+            background-image: url(images/French1.jpg);
+            background-size: cover;
+        }
+
+        #slide2 {
+            background-image: url(images/French2.jpg);
+            background-size: cover;
+        }
+
+        #slide3 {
+            background-image: url(images/French3.jpg);
+            background-size: cover;
+        }
+
+        #slide4 {
+            background-image: url(images/swizteland1.jpg);
+            background-size: cover;
+        }
+
+        #slide5 {
+            background-image: url(images/swizteland2.jpg);
+            background-size: cover;
+        }
+
+        #slide6 {
+            background-image: url(images/swizteland3.jpg);
+            background-size: cover;
+        }
+
+        #slide7 {
+            background-image: url(images/italy1.jpg);
+            background-size: cover;
+        }
+
+        #slide8 {
+            background-image: url(images/italy2.jpg);
+            background-size: cover;
+        }
+
+        #slide9 {
+            background-image: url(images/italy3.jpg);
+            background-size: cover;
+        }
+
+        #slide10 {
+            background-image: url(images/Czech1.jpg);
+            background-size: cover;
+        }
+
+        #slide11 {
+            background-image: url(images/Czech2.jpg);
+            background-size: cover;
+        }
+
+        #slide12 {
+            background-image: url(images/Czech3.jpg);
+            background-size: cover;
+        }
+
+        #slide13 {
+            background-image: url(images/hungary1.jpg);
+            background-size: cover;
+        }
+
+        #slide14 {
+            background-image: url(images/hungary2.jpg);
+            background-size: cover;
+        }
+
+        #slide15 {
+            background-image: url(images/hungary3.jpg);
+            background-size: cover;
+        }
+
+        #slide16 {
+            background-image: url(images/austria1.jpg);
+            background-size: cover;
+        }
+
+        #slide17 {
+            background-image: url(images/austria2.jpg);
+            background-size: cover;
+        }
+
+        #slide18 {
+            background-image: url(images/austria3.jpg);
+            background-size: cover;
+        }
+
+        #menu li {
+            display: inline-block;
+            margin: 10px;
+            color: #000;
+            background: #fff;
+            background: rgba(255, 255, 255, 0.5);
+            border-radius: 10px;
+        }
+
+        #menu li.active {
+            background: #666;
+            background: rgba(0, 0, 0, 0.5);
+            color: #fff;
+        }
+
+        #menu li a {
+            text-decoration: none;
+            color: #000;
+        }
+
+        #menu li.active a:hover {
+            color: #000;
+        }
+
+        #menu li:hover {
+            background: rgba(255, 255, 255, 0.8);
+        }
+
+        #menu li a,
+        #menu li.active a {
+            padding: 9px 18px;
+            display: block;
+        }
+
+        #menu li.active a {
+            color: #fff;
+        }
+
+        #menu {
+            position: fixed;
+            top: 0;
+            left: 0;
+            height: 40px;
+            z-index: 70;
+            width: 100%;
+            padding: 0;
+            margin: 0;
+            text-align: center;
+        }
+
+    </style>
+    <script>
+        $(document).ready(function() {
+            $('#fullpage').fullpage({
+                // fullpage option 기술하는 곳 
+                anchors: ['french', 'switzeland', 'italy', 'czech', 'hungary', 'austria'],
+                varticalCentered: false,
+                scrollingSpeed: 1000,
+                navigation: true,
+                slideNavigation: true,
+                continuousVertical: true,
+                easingcss3: 'cubic-bezier(0.175, 0.885, 0.320, 1.275)'
+            });
+        });
+
+    </script>
+</head>
+
+<body>
+    <ul id="menu">
+        <li><a href="../index.php">Home</a></li>
+        <li><a href="#french">French</a></li>
+        <li><a href="#switzeland">Switzeland</a></li>
+        <li><a href="#italy">Italy</a></li>
+        <li><a href="#czech">Czech</a></li>
+        <li><a href="#hungary">Hungary</a></li>
+        <li><a href="#austria">Austria</a></li>
+    </ul>
+    <div id="fullpage">
+        <div class="section" id="section1">
+            <div class="slide" id="slide1">
+                <h1>French</h1>
+            </div>
+            <div class="slide" id="slide2"></div>
+            <div class="slide" id="slide3"></div>
+        </div>
+        <div class="section" id="section2">
+            <div class="slide" id="slide4">
+                <h1>Switzeland</h1>
+            </div>
+            <div class="slide" id="slide5"></div>
+            <div class="slide" id="slide6"></div>
+        </div>
+        <div class="section" id="section3">
+            <div class="slide" id="slide7">
+                <h1>Italy</h1>
+            </div>
+            <div class="slide" id="slide8"></div>
+            <div class="slide" id="slide9"></div>
+        </div>
+        <div class="section" id="section4">
+            <div class="slide" id="slide10">
+                <h1>Czech</h1>
+            </div>
+            <div class="slide" id="slide11"></div>
+            <div class="slide" id="slide12"></div>
+        </div>
+        <div class="section" id="section5">
+            <div class="slide" id="slide13">
+                <h1>Hungary</h1>
+            </div>
+            <div class="slide" id="slide14"></div>
+            <div class="slide" id="slide15"></div>
+        </div>
+        <div class="section" id="section6">
+            <div class="slide" id="slide16">
+                <h1>Austria</h1>
+            </div>
+            <div class="slide" id="slide17"></div>
+            <div class="slide" id="slide18"></div>
+        </div>
+    </div>
+</body>
+
+</html>

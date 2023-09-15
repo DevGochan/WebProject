@@ -1,0 +1,178 @@
+food.php Template
+https://startbootstrap.com/template/heroic-features
+
+
+
+Images
+1. italy.png
+https://pixabay.com/ko/vectors/%ec%9d%b4%ed%83%88%eb%a6%ac%ec%95%84-%ea%b9%83%eb%b0%9c-%ea%b5%ad%ea%b8%b0-%ea%b5%ad%ea%b0%80-162326/
+
+3. czech.png
+https://pixabay.com/ko/vectors/%ec%b2%b4%ec%bd%94-%ea%b9%83%eb%b0%9c-%ea%b5%ad%ea%b8%b0-%ea%b5%ad%ea%b0%80-%ec%86%8c%ec%9c%84-162276/
+
+4. france.png
+https://pixabay.com/ko/vectors/%ed%94%84%eb%9e%91%ec%8a%a4-%ea%b9%83%eb%b0%9c-%ea%b5%ad%ea%b8%b0-%ea%b5%ad%ea%b0%80-162295/
+
+5. swizerland.png
+https://pixabay.com/ko/illustrations/%ec%8a%a4%ec%9c%84%ec%8a%a4-%ea%b5%ad%ea%b8%b0-%ec%8a%a4%ec%9c%84%ec%8a%a4-%ea%b5%ad%ea%b0%80-3109178/
+
+6. hungary.png
+https://pixabay.com/ko/vectors/%ed%97%9d%ea%b0%80%eb%a6%ac-%ea%b9%83%eb%b0%9c-%ea%b5%ad%ea%b8%b0-%ea%b5%ad%ea%b0%80-162317/
+
+
+
+이탈리아 음식 소개 출처
+0. 
+https://unsplash.com/ko/%EC%82%AC%EC%A7%84/q03ZLncun2Y
+
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+1. lasagna https://terms.naver.com/entry.naver?docId=2073409&cid=42717&categoryId=42718
+ 1-1 lasagna.jpg https://unsplash.com/ko/%EC%82%AC%EC%A7%84/Qf-gqJSWFYQ
+ 1-2 lasagna2.jpg   https://unsplash.com/ko/%EC%82%AC%EC%A7%84/PgkGsxjvGB4
+ 1-3 lasagna3.jpg   https://unsplash.com/ko/%EC%82%AC%EC%A7%84/g_BxoUpg1eI
+ 1-4 lasagna4.jpg   https://unsplash.com/ko/%EC%82%AC%EC%A7%84/YGEne25RWPI
+ 1-5 lasagna5.jpg    https://unsplash.com/ko/%EC%82%AC%EC%A7%84/51oiGPt_qi8
+
+
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+2. risotto https://terms.naver.com/entry.naver?docId=2053679&cid=42717&categoryId=42718
+ 2-1 risotto.jpg https://unsplash.com/ko/%EC%82%AC%EC%A7%84/Gdb1BOuIwbk
+ 2-2 risotto2.jpg   https://unsplash.com/ko/%EC%82%AC%EC%A7%84/708OpfCW4H8
+ 2-3 risotto3.jpg   https://unsplash.com/ko/%EC%82%AC%EC%A7%84/D9fAmtjC284
+ 2-4 risotto4.jpg   https://unsplash.com/ko/%EC%82%AC%EC%A7%84/KTLFhRO1Sds
+ 2-5 risotto5.jpg   https://unsplash.com/ko/%EC%82%AC%EC%A7%84/g3LhRXQC_a4
+ 
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+3. brustchetta 소개 : https://terms.naver.com/entry.naver?docId=2076185&cid=42717&categoryId=42718
+ 3-1 brustchetta.jpg    https://unsplash.com/ko/%EC%82%AC%EC%A7%84/rPkgYDh2bmo
+ 3-2 brustchetta2.jpg    https://unsplash.com/ko/%EC%82%AC%EC%A7%84/M9oXxlquKoI
+ 3-3 brustchetta3.jpg    https://unsplash.com/ko/%EC%82%AC%EC%A7%84/wLFIaZldLeU
+ 3-4 brustchetta4.jpg    https://unsplash.com/ko/%EC%82%AC%EC%A7%84/pBUPmRGARQc
+ 3-5 brustchetta5.jpg    https://unsplash.com/ko/%EC%82%AC%EC%A7%84/psrJ8EXbJFo
+
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+4. carbonara 소개 : https://terms.naver.com/entry.naver?docId=2073406&cid=42717&categoryId=42718
+ 4-1 carbonara.jpg  https://unsplash.com/ko/%EC%82%AC%EC%A7%84/dvgjof0_TP8
+ 4-2 carbonara2.jpg  https://unsplash.com/ko/%EC%82%AC%EC%A7%84/t8hTmte4O_g
+ 4-3 carbonara3.jpg  https://unsplash.com/ko/%EC%82%AC%EC%A7%84/QuFm328PV88
+ 4-4 carbonara4.jpg  https://unsplash.com/ko/%EC%82%AC%EC%A7%84/b9ZZ9nwwFzg
+ 4-5 carbonara5.jpg  https://unsplash.com/ko/%EC%82%AC%EC%A7%84/-5FECW242og
+
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+5. pizza 소개 : https://terms.naver.com/entry.naver?docId=2082307&cid=42717&categoryId=42718
+ 5-1 pizza.jpg https://www.pexels.com/ko-kr/photo/13814644/
+ 5-2 pizza2.jpg https://unsplash.com/ko/%EC%82%AC%EC%A7%84/60nzTP7_hMQ
+ 5-3 pizza3.jpg https://unsplash.com/ko/%EC%82%AC%EC%A7%84/Oxb84ENcFfU
+ 5-4 pizza4.jpg https://unsplash.com/ko/%EC%82%AC%EC%A7%84/AcA8moIiD3g
+ 5-5 pizza5.jpg https://unsplash.com/ko/%EC%82%AC%EC%A7%84/uU0Anw-8Vsg
+
+
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+6. pasta 소개 : https://terms.naver.com/entry.naver?docId=2117627&cid=42717&categoryId=42718
+ 6-1 pasta.jpg    https://unsplash.com/ko/%EC%82%AC%EC%A7%84/qits91IZv1o
+ 6-2 pasta2.jpg     https://unsplash.com/ko/%EC%82%AC%EC%A7%84/-9UJTnXpUXM
+ 6-3 pasta3.jpg    https://unsplash.com/ko/%EC%82%AC%EC%A7%84/PLyJqEJVre0
+ 6-4 pasta4.jpg     https://unsplash.com/ko/%EC%82%AC%EC%A7%84/dhSesAaBANM
+ 6-5 pasta5.jpg     https://unsplash.com/ko/%EC%82%AC%EC%A7%84/Enec99GUXm8
+
+
+
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+7. Minestrone 소개 : https://terms.naver.com/entry.naver?docId=2073398&cid=42717&categoryId=42718
+ 7-1 minestrone.jpg https://terms.naver.com/entry.naver?docId=2073398&cid=42717&categoryId=42718
+ 7-2 minestrone2.jpg    https://unsplash.com/ko/%EC%82%AC%EC%A7%84/5eROVOJW2bA
+ 7-3 minestrone3.jpg    https://unsplash.com/ko/%EC%82%AC%EC%A7%84/90Z4qIxWc8Y
+ 7-4 minestrone4.jpg    https://pixabay.com/ko/photos/%ec%88%98%ed%94%84-%eb%af%b8%eb%84%a4-%ec%8a%a4%ed%8a%b8%eb%a1%9c-%eb%84%a4-%ec%88%98%ed%94%84-4770692/
+ 7-5 minestrone5.jpg    https://ko.bakeitwithlove.com/instant-pot-minestrone/
+
+
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+food_czech.php
+전체 음식 소개 참고 : https://triple.guide/regions/dc8e43fd-dc81-4a20-8fe1-3fccd538aaae/articles/4e85eca7-cd5c-439b-9511-677debc7b0bf
+svickova (1-5).jpg : http://www.windsortour.co.kr/B2B_mobile/goods_view/Detailarea_view.asp?seq=151&info=04
+
+
+
+ Veproknedlozelo : https://www.windsortour.co.kr/B2B_mobile/goods_view/Detailarea_view.asp?seq=214&info=04
+ Veproknedlozelo소개 : https://issue.pikicast.com/418162/
+
+Bramboraky 소개, 사진 : http://www.windsortour.co.kr/B2B_mobile/goods_view/Detailarea_view.asp?seq=217&info=04
+
+Palacinky 소개, 사진 : http://www.windsortour.co.kr/B2B_mobile/goods_view/Detailarea_view.asp?seq=732&info=04
+
+
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+food_france.php
+
+res.jpg : https://unsplash.com/ko/%EC%82%AC%EC%A7%84/r0DMK-9HVWk
+
+Ratatouille (1-4).jpg https://www.windsortour.co.kr/home/tour_info/index.asp?ts=view_shopping&infor_cd=04&cd=A&nat_cd=FR&city=PAR&seq=371
+
+
+Escargot 소개 : https://terms.naver.com/entry.naver?docId=3390429&cid=48179&categoryId=48382
+Escargot 사진 : https://www.windsortour.co.kr/home/tour_info/index.asp?ts=view_shopping&infor_cd=04&cd=A&nat_cd=FR&city=PAR&seq=130
+
+
+gratin 소개 : https://terms.naver.com/entry.naver?docId=3403556&cid=48179&categoryId=48243
+gratin 사진 : https://www.windsortour.co.kr/home/tour_info/index.asp?ts=view_shopping&infor_cd=04&cd=A&nat_cd=FR&city=PAR&seq=369
+
+bœuf bourguignon 소개 : https://terms.naver.com/entry.naver?docId=2432958&cid=42717&categoryId=42718
+bœuf bourguignon 사진 : https://www.windsortour.co.kr/home/tour_info/index.asp?ts=view_shopping&infor_cd=04&cd=A&nat_cd=FR&city=PAR&seq=138
+
+Bouillabaisse 소개 : https://terms.naver.com/entry.naver?docId=2432955&cid=42717&categoryId=42718
+Bouillabaisse 사진 : https://www.windsortour.co.kr/home/tour_info/index.asp?ts=view_shopping&infor_cd=04&cd=A&nat_cd=FR&city=PAR&seq=367
+
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+Switzerland.php
+
+res.jpg : https://unsplash.com/ko/%EC%82%AC%EC%A7%84/HM2u6gti_ic
+
+Geschnetzeltes  소개, 사진 : https://www.windsortour.co.kr/home/tour_info/index.asp?ts=view_shopping&infor_cd=04&cd=A&nat_cd=CH&city=ZRH&seq=190
+
+
+Cordon bleu 소개, 사진 : https://www.windsortour.co.kr/home/tour_info/index.asp?ts=view_shopping&infor_cd=04&cd=A&nat_cd=CH&city=ZRH&seq=924
+
+
+Schnitzel 소개, 사진 : https://www.windsortour.co.kr/home/tour_info/index.asp?ts=view_shopping&infor_cd=04&cd=A&nat_cd=CH&city=ZRH&seq=1383
+
+
+Alplermagronen 소개, 사진 : https://www.windsortour.co.kr/home/tour_info/index.asp?ts=view_shopping&infor_cd=04&cd=A&nat_cd=CH&city=ZRH&seq=916
+
+Raclette 소개, 사진 : https://www.windsortour.co.kr/home/tour_info/index.asp?ts=view_shopping&infor_cd=04&cd=A&nat_cd=CH&city=ZRH&seq=179
+
+Cheeze Fondue 소개 , 사진 : https://www.windsortour.co.kr/home/tour_info/index.asp?ts=view_shopping&infor_cd=04&cd=A&nat_cd=CH&city=ZRH&seq=192
+
+
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+hungary.php
+res.jpg : https://pixabay.com/ko/photos/%ed%94%8c%eb%9e%98%ea%b7%b8-%ed%97%9d%ea%b0%80%eb%a6%ac-%ed%81%b4%eb%9d%bc%ec%9a%b0%eb%93%9c-143157/
+
+Langos 소개, 사진 : https://www.windsortour.co.kr/home/tour_info/index.asp?ts=view_shopping&infor_cd=04&cd=E&nat_cd=HU&city=BUD&seq=744
+
+Lecso  소개, 사진 : https://www.windsortour.co.kr/home/tour_info/index.asp?ts=view_shopping&infor_cd=04&cd=E&nat_cd=HU&city=BUD&seq=1331
+
+Porkolt 소개, 사진 : https://www.windsortour.co.kr/home/tour_info/index.asp?ts=view_shopping&infor_cd=04&cd=E&nat_cd=HU&city=BUD&seq=210
+
+Palacsinta 소개, 사진 : https://www.windsortour.co.kr/home/tour_info/index.asp?ts=view_shopping&infor_cd=04&cd=E&nat_cd=HU&city=BUD&seq=209
+
+Toltott kaposzta 소개, 사진 : https://www.windsortour.co.kr/home/tour_info/index.asp?ts=view_shopping&infor_cd=04&cd=E&nat_cd=HU&city=BUD&seq=1332'
+
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+austria.php
+res.jpg : https://ko.m.wikipedia.org/wiki/%ED%8C%8C%EC%9D%BC:Flag_of_Austria.svg
+
+Martinigans 소개, 사진 : https://www.windsortour.co.kr/home/tour_info/index.asp?ts=view_shopping&infor_cd=04&cd=E&nat_cd=AT&city=VIE&seq=1322
+
+Tiroler Grostl  소개, 사진 : https://www.windsortour.co.kr/home/tour_info/index.asp?ts=view_shopping&infor_cd=04&cd=E&nat_cd=AT&city=VIE&seq=583
+
+Austria Knodel 소개, 사진 : https://www.windsortour.co.kr/home/tour_info/index.asp?ts=view_shopping&infor_cd=04&cd=E&nat_cd=AT&city=VIE&seq=741
+
+Kaiserschmarrn 소개, 사진 : https://www.windsortour.co.kr/home/tour_info/index.asp?ts=view_shopping&infor_cd=04&cd=E&nat_cd=AT&city=VIE&seq=206
+
+Apricot dumplings 소개, 사진 : https://www.windsortour.co.kr/home/tour_info/index.asp?ts=view_shopping&infor_cd=04&cd=E&nat_cd=AT&city=VIE&seq=736
+
