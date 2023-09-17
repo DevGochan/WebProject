@@ -113,17 +113,17 @@
             </a>
             <div>
                 <?php
-            $logged = false;
-            if (isset($_SESSION["uid"])) {
-              $uname = $_SESSION["uname"];
-              echo "<span>$uname 환영합니다.</span>&nbsp&nbsp&nbsp"; 
-              $logged = true;
-              echo '<a class="btn" onclick="location.href=(\'sign/signout.php\')">Sign Out</a>';
-            } else {
-              echo '<a class="btn" onclick="openCenteredPopup(\'sign/signin.html\', \'sign in\', 700, 450)">Sign In</a>';
-              echo '<a class="btn" onclick="openCenteredPopup(\'sign/signup.html\', \'sign up\', 700, 450)">Sign Up</a>'; 
-            }
-          ?>
+                    $logged = false;
+                    if (isset($_SESSION["uid"])) {
+                    $uname = $_SESSION["uname"];
+                    echo "<span>$uname 환영합니다.</span>&nbsp&nbsp&nbsp"; 
+                    $logged = true;
+                    echo '<a class="btn" onclick="location.href=(\'sign/signout.php\')">Sign Out</a>';
+                    } else {
+                    echo '<a class="btn" onclick="openCenteredPopup(\'sign/signin.html\', \'sign in\', 700, 450)">Sign In</a>';
+                    echo '<a class="btn" onclick="openCenteredPopup(\'sign/signup.html\', \'sign up\', 700, 450)">Sign Up</a>'; 
+                    }
+                ?>
 
                 <script>
                     function openCenteredPopup(url, title, w, h) {
